@@ -3,13 +3,14 @@
 <p align="center">
 🔭 I’m currently working on honing my skills in cybersecurity.<br>
 👯 I’m looking to collaborate on open source projects.<br>
-🌱 I’m currently learning security penetration testing<br>
+🌱 I’m currently learning security penetration testing.<br>
 💬 Ask me about IT & Cybersecurity.<br>
 ⚡ Fun fact i am not introvert neither extrovert > whoami ?
 </p>
 
 <div align="center">
      <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
+     <img src="https://www.hackthebox.eu/badge/image/1712460" height="70" style="margin: 0 10px;">
 </div>
 
 <h2 align="center">🌐 Socials:</h2>
