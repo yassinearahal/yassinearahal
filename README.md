@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">
-    <img src="https://www.hackthebox.eu/badge/image/565048" height="70" style="margin: 0 10px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Nasrallah.png" height="70" style="margin: 0 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" height="70" style="margin: 0 10px;">
+    <img src="https://www.hackthebox.eu/badge/image/1712460" height="70" style="margin: 0 10px;">
 </div>
 
 <h2 align="center">🌐 Socials:</h2>
