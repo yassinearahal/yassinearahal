@@ -21,7 +21,7 @@
 <a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<h1 align="center">💻 Tech Stack:</h1>
+<h1 align="center">💻 Languages and Tools::</h1>
 
 <p align="center">
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
