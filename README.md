@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-     <img src="https://www.hackthebox.eu/badge/image/1712460" height="60" style="margin: 0 10px;">
+     <img src="https://www.hackthebox.eu/badge/image/1712460" height="55" style="margin: 0 10px;">
      <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
 </div>
 
