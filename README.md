@@ -24,17 +24,19 @@
 <h1 align="center">💻 Tech Stack:</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
-<img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
+<a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="bash" width="50" height="50" /></a>
+<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></a>
+<a href="https://www.metasploit.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.metasploit.com/includes/images/favicon.ico" alt="metasploit" width="50" height="50" /></a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" alt="burpsuite" width="50" height="50" /></a>
+<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/6716868?s=48&v=4" alt="zap" width="50" height="50" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img align="center" src="https://www.wireshark.org/assets/icons/favicon.ico" alt="" width="50" height="50" /></a>
+<a href="https://github.com/BloodHoundAD/BloodHound" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/25502277?s=48&v=4" alt="bloodhound" width="50" height="50" /></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/63385?s=48&v=4" alt="nmap" width="50" height="50" /></a>
+<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/15949799?s=48&v=4" alt="hashcat" width="50" height="50" /></a>
+<!--<a href="" target="_blank" rel="noreferrer"><img align="center" src="" alt="" width="50" height="50" /></a>-->
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
