@@ -3,7 +3,6 @@
 <p align="center">
 🔭 I’m currently working on honing my skills in cybersecurity.<br>
 👯 I’m looking to collaborate on open source projects.<br>
-🌱 I’m currently learning security penetration testing.<br>
 💬 Ask me about IT & Cybersecurity.<br>
 ⚡ Fun fact i am not introvert neither extrovert > whoami ?
 </p>
