@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫 About Me</h1>
 
 <p align="center">
 🔭 I’m currently working on honing my skills in cybersecurity.<br>
