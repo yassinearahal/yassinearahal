@@ -9,7 +9,7 @@
 
 <div align="center">
      <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
-     <img src="https://www.hackthebox.eu/badge/image/1712460" height="57" style="margin: 0 10px;">  
+     <img src="https://www.hackthebox.eu/badge/image/HTB-8D8859F2D0" height="57" style="margin: 0 10px;">  
 </div>
 
 <h2 align="center">🌐 Socials:</h2>
