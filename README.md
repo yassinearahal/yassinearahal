@@ -9,7 +9,7 @@
 
 <div align="center">
      <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
-     <img src="https://www.hackthebox.eu/badge/image/1712460" height="57" style="margin: 0 10px;">  
+     <img src="https://www.hackthebox.eu/badge/image/yassinearahal" height="57" style="margin: 0 10px;">  
 </div>
 
 <h2 align="center">🌐 Socials:</h2>
@@ -17,7 +17,6 @@
 <p align="center">
 <a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 <a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <h1 align="center">💻 Languages and Tools:</h1>
