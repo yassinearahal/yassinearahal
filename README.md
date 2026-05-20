@@ -1,19 +1,13 @@
-<div align="center">
+<h1 align="center">💫 About Me</h1>
 
-```bash
-$ whoami
-> yassinearahal
-$ cat role.txt
-> Cybersecurity Analyst | SOC | Penetration Tester
-$ cat interests.txt
-> Offensive Security | Threat Detection | OSINT | CTF
-$ cat status.txt
-> Red team mindset. Blue team execution. Always learning.
-```
+<p align="center">
+🔭 Currently working as a Cybersecurity Analyst — SOC operations, threat detection & incident response.<br>
+🎯 Passionate about both offensive and defensive security — red team mindset, blue team execution.<br>
+🧩 Active CTF player & OSINT analyst — Hack The Box, TryHackMe, Trace Labs.<br>
+⚡ whoami > not introvert, not extrovert — just someone who likes to break things ethically.
+</p>
 
-</div>
-
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Socials:</h2>
 
 <p align="center">
 <a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
