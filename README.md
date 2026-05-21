@@ -22,17 +22,17 @@
 <h1 align="center">💻 Languages and Tools:</h1>
 
 <p align="center">
-<a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50" /></a>
-<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></a>
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="burpsuite" width="50" height="50" /></a>
-<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zap.svg" alt="zap" width="50" height="50" /></a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="50" height="50" /></a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" alt="nmap" width="50" height="50" /></a>
-<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashicorp.svg" alt="hashcat" width="50" height="50" /></a>
-<a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" alt="wazuh" width="50" height="50" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="zap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white" alt="hashcat"/>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="wazuh"/>
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
