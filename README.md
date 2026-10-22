@@ -11,7 +11,7 @@
 <a href="https://tryhackme.com/p/yassinearahal" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-yassinearahal-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
 </a>
-<a href="https://app.hackthebox.com/profile/1712460" target="_blank">
+<a href="https://app.hackthebox.com/public/users/1712460" target="_blank">
 <img src="https://img.shields.io/badge/Hack%20The%20Box-yassinearahal-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
 </a>
 </p>
