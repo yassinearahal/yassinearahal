@@ -1,8 +1,8 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-🔭 I'm currently working on honing my skills in cybersecurity.<br>
-👯 I'm looking to collaborate on open source projects.<br>
+🔭 I'm currently working on honing my skills in cybersecurity<br>
+👯 I'm looking to collaborate on open source projects<br>
 💬 Cybersecurity - Purple Team<br>
 ⚡ Fun fact i am not introvert neither extrovert > whoami ?
 </p>
